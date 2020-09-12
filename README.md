@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/48589838/77054629-0251ad80-69f6-11ea-8d55-29b0d8b98842.png)         ![image](https://user-images.githubusercontent.com/48589838/77054833-2c0ad480-69f6-11ea-9855-0bdeec8535b7.png)
 
-
 AWS and Amazon EMR
 AWS is one of the most used cloud services platform, a lot of services are available, it is very well documented and easy to use.
 
